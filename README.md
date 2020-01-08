@@ -8,7 +8,7 @@ In this project, you can build a burger out of four ingredients. Make an order a
 
 Project is my continues learning of react features and serves for testing new features and bugs.
 
-##Some features:
+## Some features:
 
 ### Create your burger out of four ingredients
 
